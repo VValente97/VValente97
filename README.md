@@ -1,41 +1,64 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Jo%C3%A3o%20Vitor%20Valente&fontColor=ffffff&fontSize=36&fontAlignY=35&desc=Desenvolvedor%20Web%20em%20forma%C3%A7%C3%A3o&descAlignY=58&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Jo%C3%A3o%20Vitor%20Valente&fontColor=ffffff&fontSize=36&fontAlignY=35&desc=Web%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=16" width="100%" />
 </div>
 
 <h1 align="center">Olá, eu sou João Vitor 👋</h1>
 
 <p align="center">
-  Estudante de Ciência da Computação e desenvolvedor web em formação.<br />
-  Construo interfaces modernas, acessíveis e funcionais enquanto evoluo todos os dias.
+  Web Stack Developer e estudante de Ciência da Computação.<br />
+  Desenvolvo soluções web modernas, responsivas e escaláveis.
 </p>
 
 <p align="center">
-  <a href="https://github.com/VValente97"><img src="https://img.shields.io/badge/GitHub-VValente97-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://github.com/VValente97?tab=repositories"><img src="https://img.shields.io/badge/Projetos-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Projetos" /></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-valente-4b6056234/">LinkedIn</a> ·
+  <a href="https://github.com/VValente97?tab=repositories">Projetos</a>
 </p>
 
 ## Sobre mim
 
-- 🎓 Estudante de Ciência da Computação
-- 💻 Explorando desenvolvimento web com foco em front-end
-- 🌱 Atualmente estudando HTML, CSS, JavaScript e React
-- 🚀 Em busca de projetos, desafios e oportunidades para crescer
+- 💻 Experiência com desenvolvimento front-end e projetos full-stack
+- 🧩 Atuação anterior no Tribunal Regional do Trabalho da 8ª Região (TRT-8)
+- 🌎 Participação na COP30 em Belém/PA
+- 🎓 Ciência da Computação na UNAMA
+- 🚀 Buscando novos desafios em desenvolvimento de software
 
-## Tecnologias
+## Competências técnicas
+
+### Front-end
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github&theme=dark" alt="Tecnologias: HTML, CSS, JavaScript, React, Git e GitHub" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,sass&theme=dark" alt="HTML, CSS, JavaScript, React, Next.js, Bootstrap e Sass" />
 </div>
+
+### Back-end, dados e cloud
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,python,mysql,sqlite,mongodb,aws&theme=dark" alt="Node.js, Python, MySQL, SQLite, MongoDB e AWS" />
+</div>
+
+### Ferramentas e outras áreas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,wordpress&theme=dark" alt="Git, GitHub e WordPress" />
+</div>
+
+Também trabalho com APIs, UX/UI, automação de processos (RPA), testes de software e integração de serviços.
+
+## Experiência em destaque
+
+### Tribunal Regional do Trabalho da 8ª Região — TRT-8
+
+Atuação em desenvolvimento front-end, manutenção de interfaces responsivas e melhoria de usabilidade e acessibilidade em sistemas internos, utilizando HTML, CSS, JavaScript e frameworks modernos.
 
 ## Projeto em destaque
 
 ### [Blog_Valente](https://github.com/VValente97/Blog_Valente)
 
-Um projeto de blog para praticar construção de interfaces web, organização de código e evolução do front-end.
+Projeto de blog para praticar interfaces web, organização de código e evolução do front-end.
 
 ## Em construção
 
-Estou aprimorando minha base em desenvolvimento web e transformando cada estudo em projetos práticos. Em breve, este espaço terá ainda mais aplicações e experimentos.
+Este perfil acompanha minha evolução em desenvolvimento web e engenharia de software. Novos projetos e experimentos serão adicionados continuamente.
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%" />
