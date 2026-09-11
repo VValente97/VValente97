@@ -16,11 +16,11 @@
 
 ## Sobre mim
 
-- 💻 Experiência com desenvolvimento front-end e projetos full-stack
-- 🧩 Atuação anterior no Tribunal Regional do Trabalho da 8ª Região (TRT-8)
-- 🌎 Participação na COP30 em Belém/PA
-- 🎓 Ciência da Computação na UNAMA
-- 🚀 Buscando novos desafios em desenvolvimento de software
+Sou Web Stack Developer e estudante de Ciência da Computação, com experiência em desenvolvimento front-end e projetos full-stack.
+
+Atuei no Tribunal Regional do Trabalho da 8ª Região (TRT-8), desenvolvendo e mantendo interfaces responsivas, acessíveis e voltadas a sistemas internos. Tenho experiência com React, Next.js, JavaScript, Bootstrap, Sass, Node.js, Python, APIs, bancos SQL/NoSQL e AWS.
+
+Também trabalho com UX/UI, WordPress e automação de processos. Gosto de transformar problemas em soluções simples, funcionais e bem estruturadas. Atualmente, busco novos desafios para continuar evoluindo em engenharia de software.
 
 ## Competências técnicas
 
